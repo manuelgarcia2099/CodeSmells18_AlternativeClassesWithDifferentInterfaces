@@ -1,0 +1,1 @@
+# CodeSmells18_AlternativeClassesWithDifferentInterfaces
